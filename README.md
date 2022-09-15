@@ -53,4 +53,4 @@
 
 ### 💻 Source Code
 
-- 🔗 [Chapter 1]()
+- 🔗 [Chapter 1 - Introduction, Basics, & Guide](https://github.com/gitdagray/tailwind-css-course/tree/main/lesson01)
