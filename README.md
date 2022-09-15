@@ -1,0 +1,56 @@
+# "Tailwind CSS for Beginners"
+
+### Full Course - ?? Chapters
+
+---
+
+### Author Links
+
+👋 Hello, I'm Dave Gray.
+
+✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+
+🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
+
+☕ [Buy Me A Coffee](https://buymeacoffee.com/DaveGray)
+
+🚀 Follow Me:
+
+- [Twitter](https://twitter.com/yesdavidgray)
+- [LinkedIn](https://www.linkedin.com/in/davidagray/)
+- [Blog](https://yesdavidgray.com)
+- [Reddit](https://www.reddit.com/user/DaveOnEleven)
+
+---
+
+### Description
+
+📺 [YouTube Playlist](https://bit.ly/3BKYrzg) for this repository.
+
+🚀 This repository shares ALL of the resources referenced during the CSS tutorial series.
+
+---
+
+### 🎓 Academic Honesty
+
+**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+
+---
+
+### ⚙ Free Web Dev Tools
+
+- 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
+- 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
+- 🔗 [Live Server VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- 🔗 [Tailwind CSS Intellisense VS Code Extension](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- 🔗 [Inline Fold VS Code Extension](https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold)
+
+
+### 📚 References
+🔗 [Tailwind CSS Official Site](https://tailwindcss.com/)
+
+---
+
+### 💻 Source Code
+
+- 🔗 [Chapter 1]()
