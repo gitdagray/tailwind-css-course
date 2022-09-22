@@ -47,9 +47,9 @@
 
 
 ### 📚 References
-🔗 [Tailwind CSS Official Site](https://tailwindcss.com/)
-🔗 [Prettier](https://www.npmjs.com/package/prettier)
-🔗 [Automatic Class Sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
+- 🔗 [Tailwind CSS Official Site](https://tailwindcss.com/)
+- 🔗 [Prettier](https://www.npmjs.com/package/prettier)
+- 🔗 [Automatic Class Sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 
 ---
 
