@@ -48,9 +48,12 @@
 
 ### 📚 References
 🔗 [Tailwind CSS Official Site](https://tailwindcss.com/)
+🔗 [Prettier](https://www.npmjs.com/package/prettier)
+🔗 [Automatic Class Sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 
 ---
 
 ### 💻 Source Code
 
 - 🔗 [Chapter 1 - Introduction, Basics, & Guide](https://github.com/gitdagray/tailwind-css-course/tree/main/lesson01)
+- 🔗 [Chapter 2 - Project Part 1: Acme Rockets](https://github.com/gitdagray/tailwind-css-course/tree/main/lesson02)
