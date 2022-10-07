@@ -58,3 +58,4 @@
 - 🔗 [Chapter 1 - Introduction, Basics, & Guide](https://github.com/gitdagray/tailwind-css-course/tree/main/lesson01)
 - 🔗 [Chapter 2 - Project Part 1: Acme Rockets](https://github.com/gitdagray/tailwind-css-course/tree/main/lesson02)
 - 🔗 [Chapter 3 - Project Part 2: Acme Rockets](https://github.com/gitdagray/tailwind-css-course/tree/main/lesson03)
+- 🔗 [Chapter 4 - Project Part 3: Acme Rockets](https://github.com/gitdagray/tailwind-css-course/tree/main/lesson04)
