@@ -1,6 +1,6 @@
 # "Tailwind CSS for Beginners"
 
-### Full Course - ?? Chapters
+### Full Course - 5 Chapters
 
 ---
 
@@ -58,4 +58,5 @@
 - 🔗 [Chapter 1 - Introduction, Basics, & Guide](https://github.com/gitdagray/tailwind-css-course/tree/main/lesson01)
 - 🔗 [Chapter 2 - Project Part 1: Acme Rockets](https://github.com/gitdagray/tailwind-css-course/tree/main/lesson02)
 - 🔗 [Chapter 3 - Project Part 2: Acme Rockets](https://github.com/gitdagray/tailwind-css-course/tree/main/lesson03)
-- 🔗 [Chapter 4 - Project Part 3: Acme Rockets](https://github.com/gitdagray/tailwind-css-course/tree/main/lesson04)
+- 🔗 [Chapter 4 - Project Part 3: Mobile Menu](https://github.com/gitdagray/tailwind-css-course/tree/main/lesson04)
+- 🔗 [Chapter 5 - Project Part 4: Deploy](https://github.com/gitdagray/tailwind-css-course/tree/main/lesson05)
