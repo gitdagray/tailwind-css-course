@@ -27,7 +27,7 @@
 
 📺 [YouTube Playlist](https://bit.ly/3BKYrzg) for this repository.
 
-🚀 This repository shares ALL of the resources referenced during the CSS tutorial series.
+🚀 This repository shares ALL of the resources referenced during the Tailwind CSS tutorial series.
 
 ---
 
